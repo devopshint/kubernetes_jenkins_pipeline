@@ -1,1 +1,1 @@
-# kubernetes_jenkins_pipeline
+# jenkins-kubernetes-example
