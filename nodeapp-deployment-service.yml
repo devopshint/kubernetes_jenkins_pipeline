@@ -20,7 +20,7 @@ spec:
         image: "devopshint/nodejsdocker"
         
 ---
-apiVersion: v1
+apiVersion: apps/v1
 kind: Service
 metadata:
   name: nodejs-demo
